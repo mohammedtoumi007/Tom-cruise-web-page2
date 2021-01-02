@@ -1,0 +1,45 @@
+.row-1 .col-1
+{
+    background-color: #ddd;
+    text-align: center;
+}
+.Tom
+{
+    background-color: #ddd;
+    padding: 50px;
+    border-radius: 10px;
+    
+}
+.wiki
+{
+    text-align: center; 
+    
+}
+.profession 
+{
+    border-style: groove;
+    padding: 10px 0px 10px 0px;
+    border-radius: 10px;
+    margin: 10px;
+    font-family: Tahoma;
+    font-size: 15px;
+    
+}
+.image-tom 
+{
+    border-style: groove;
+    padding: 10px 0px 10px 0px;
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+img{
+    border-radius: 50%;
+}
+.text-image-tom
+{
+    border-style: groove;
+    padding: 5px 0px 5px 0px;
+    font-weight: bold;
+    font-style: italic;
+}
